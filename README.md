@@ -1,2 +1,3 @@
-# multiroom-chat
-Chat websocket utilizando NodeJS
+# multiroom-chat 
+Projeto Chat websocket - NodeJS 
+Curso Completo Desenvolvedor NodeJS e MongoDB - Udemy
